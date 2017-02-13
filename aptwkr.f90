@@ -68,7 +68,7 @@ PROGRAM aptwkr
         	WRITE (2,*) "Mean Dipole Moment Derivative:", Pbar
         	WRITE (2,*) "Absolute Value of the Effective Charge:", effch
 		WRITE (2,*) "Square Root of the Anisotropy:", an
-       		WRITE (2,*) "Cubic Root fo the Determinant :", det
+       		WRITE (2,*) "Cubic Root of the Determinant :", det
         	WRITE (2,*) "Square Root of the Sum of Cofactors:", cofac
 		Write(2,*) ""
 	END DO
