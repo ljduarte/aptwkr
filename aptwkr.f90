@@ -86,7 +86,7 @@ REAL FUNCTION Tr(matrix)
 
 END FUNCTION Tr
 
-! Function cbrt to 
+! Function cubic root. 
 
 REAL FUNCTION cbrt(x)
 	IMPLICIT none
