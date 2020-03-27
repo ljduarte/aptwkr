@@ -1,11 +1,11 @@
 # Atomic Polar Tensor Worker 
-This is a little dummy program which performs calculations of the invariants of Atomic Polar Tensors.
+This is a little dummy program that calculates the invariants of Atomic Polar Tensors.
 
 # To compile: 
 gfortran -o aptwkr.x aptwkr.f90 -O3
 
 # Input example:
-Create a file named "tensors.inp" with the molecule's name and the APT. You can put any number of tensors in this file
+Create a file named "tensors.inp" that contains the molecule's name and the APT. You can put any number of tensors in this file
 //Example:
 
 CH4
