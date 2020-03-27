@@ -1,8 +1,7 @@
 !
 !	Atomic Polar Tensor Worker
 !
-! This is a little dummy program wich perform
-! calculations of the invariants of Atomic polar
+! This is a little dummy program that calculates the invariants of Atomic polar
 ! tensors.
 !
 ! Coded by L. J. Duarte
